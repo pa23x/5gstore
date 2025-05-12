@@ -1,0 +1,33 @@
+
+body {
+    background-color: #121212;
+    color: #ccc;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #0d47a1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    color: #ccc;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #00bcd4;
+}
+.container {
+    padding: 20px;
+}
+button, input[type="submit"] {
+    background-color: #0d47a1;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
